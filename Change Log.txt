@@ -1,0 +1,19 @@
+Change Log:
+V1.3
+Updated to v1.7.10 MC
+v1.2
+Added Invar Armour
+Added Assembler Machine
+Added GUI's
+Added Schematics
+Fixed Tesseract Bug
+Fixed Energy Cell Bug
+
+v1.1
+Added Metal Blocks
+Added Metal Nuggets
+Added Liquid Buckets
+Added Charging Machine Texture & GUI
+
+v1.0
+Initial Release 
