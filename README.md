@@ -8,7 +8,8 @@ We at DeltaStrium will be continuing to update this pack for the foreseeable fut
 Credits:
 ================
 * KingLemmingCoFH [For creating Thermal Expansion Mod]
-* Nuttyprot [for Creating the textures][Retired From Texturing
+* Nuttyprot [for Creating the textures][Retired From Texturing]
+* CeLittle3 [For His Texture Contributions]
 * TempusBD [For Texture Contributions]
 * DarksideBD [For Texture Contributions]
 * DrakeBD [Editing and Creating the pack]

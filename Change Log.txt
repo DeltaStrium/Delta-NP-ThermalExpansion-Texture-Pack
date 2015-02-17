@@ -1,6 +1,7 @@
 Change Log:
 V1.3
 Updated to v1.7.10 MC
+Added New Ore Styles
 v1.2
 Added Invar Armour
 Added Assembler Machine
